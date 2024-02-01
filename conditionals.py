@@ -15,27 +15,28 @@ print(number is string)
 
 
 
-# if number == '100':
-#     print("The number is 100.")
-#     print("Hello yes the condition was true.")
-# elif number == 10098:
-#     print("The second condition worked.")
-# elif number == 574838:
-#     print("This is the thrid condtion that is true,")
-# else:
-#     print("None of the values is equal to 100.")
+if number == '100':
+    print("The number is 100.")
+    print("Hello yes the condition was true.")
+elif number == 10098:
+    print("The second condition worked.")
+elif number == 574838:
+    print("This is the thrid condtion that is true,")
+else:
+    print("None of the values is equal to 100.")
 
 
+# This is another conditional statement logic expample.
+    
+day = "suuny"
 
-# day = "suuny"
-
-# if day == "sunny":
-#     print("the day is sunny, chill at home.")
-# elif day == "rainny":
-#     print("It is rainnig go with your umbrella.")
-# elif day == "snowy":
-#     print("It is snowing, go with your coat.")
-# else:
-#     print("The day is cool, get some fresh air.")
+if day == "sunny":
+    print("the day is sunny, chill at home.")
+elif day == "rainny":
+    print("It is rainnig go with your umbrella.")
+elif day == "snowy":
+    print("It is snowing, go with your coat.")
+else:
+    print("The day is cool, get some fresh air.")
 
 
